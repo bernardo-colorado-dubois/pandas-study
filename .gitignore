@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Generados al ejecutar los cuadernos
+cache/
+salida/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
